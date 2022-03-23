@@ -1,0 +1,1000 @@
+  511  gcc -Wall main.c
+  512  ./a.out 
+  513  gcc -Wall main.c
+  514  ./a.out 
+  515  gcc -Wall main.c
+  516  ./a.out 
+  517  gcc -Wall main.c
+  518  ./a.out 
+  519  gcc -Wall main.c
+  520  ./a.out 
+  521  gcc -Wall main.c
+  522  ./a.out 
+  523  gcc -Wall main.c
+  524  ./a.out 
+  525  gcc -Wall main.c
+  526  clear
+  527  gcc -Wall main.c
+  528  clear
+  529  gcc -Wall main.c
+  530  clear
+  531  gcc -Wall main.c
+  532  clear
+  533  ./a.out 
+  534  gcc -Wall main.c
+  535  clear
+  536  ./a.out 
+  537  ls
+  538  cd InfinityLabs/g
+  539  cd InfinityLabs/git/
+  540  ls
+  541  cd c
+  542  cd ws1
+  543  ls
+  544  cd ..
+  545  cd..
+  546  cd ws1_5/
+  547  ls
+  548  gcc -Wall main.c w1_5.c
+  549  gcc -Wall main.c ws1_5.c
+  550  clear
+  551  gcc -Wall main.c ws1_5.c
+  552  clear
+  553  gcc -Wall main.c ws1_5.c
+  554  clear
+  555  gcc -Wall main.c ws1_5.c
+  556  cd ../
+  557  ls
+  558  cd ..
+  559  cd quizzes/
+  560  ls
+  561  touch rev_str.c
+  562  ls
+  563  gcc -Wall rev_str.c 
+  564  clear
+  565  gcc -Wall rev_str.c 
+  566  clear
+  567  gcc -Wall rev_str.c 
+  568  ls
+  569  ./a.out 
+  570  gcc -Wall rev_str.c 
+  571  ./a.out 
+  572  gcc -Wall rev_str.c 
+  573  ./a.out 
+  574  gcc -Wall rev_str.c 
+  575  ./a.out 
+  576  gcc -Wall rev_str.c 
+  577  ./a.out 
+  578  gcc -Wall rev_str.c 
+  579  ./a.out 
+  580  gcc -Wall rev_str.c 
+  581  ./a.out 
+  582  gcc -Wall rev_str.c 
+  583  ./a.out 
+  584  gcc -Wall rev_str.c 
+  585  ./a.out 
+  586  gcc -Wall rev_str.c 
+  587  ./a.out 
+  588  gcc -Wall rev_str.c 
+  589  ./a.out 
+  590  gcc -Wall rev_str.c 
+  591  ./a.out 
+  592  gcc -Wall rev_str.c 
+  593  cleae
+  594  clear
+  595  gcc -Wall rev_str.c 
+  596  clear
+  597  gcc -Wall rev_str.c 
+  598  clear
+  599  gcc -Wall rev_str.c 
+  600  ./a.out 
+  601  gcc -Wall rev_str.c 
+  602  ./a.out 
+  603  gcc -Wall rev_str.c 
+  604  ./a.out 
+  605  gcc -Wall rev_str.c 
+  606  ./a.out 
+  607  gcc -Wall rev_str.c 
+  608  ./a.out 
+  609  gcc -Wall rev_str.c 
+  610  בךקשר
+  611  clear
+  612  gcc -Wall rev_str.c 
+  613  cd ..
+  614  cd c/ws1_5/
+  615  ls
+  616  gcc -Wall main.c ws1_5.c
+  617  clear
+  618  gcc -Wall main.c ws1_5.c
+  619  clear
+  620  gcc -Wall main.c ws1_5.c
+  621  ./a.out 
+  622  gcc -Wall main.c ws1_5.c
+  623  ./a.out 
+  624  gcc -Wall main.c ws1_5.c
+  625  ./a.out 
+  626  cd Backend/
+  627  ls
+  628  dotnet run
+  629  cd Frontend/
+  630  ng serve
+  631  npm -v
+  632  pwd
+  633  cd ~
+  634  pwd
+  635  touch script
+  636  history
+  637  gedit run
+  638  gedit run1
+  639  ls
+  640  gedit script &
+  641  ./script
+  642  detials
+  643  details
+  644  ls -l
+  645  list
+  646  ls -l
+  647  chmod 700 script 
+  648  ls -l
+  649  ./script 
+  650  ls
+  651  ls -l
+  652  rm nodesource_setup.sh 
+  653  ls -l
+  654  ./script 
+  655  ls -l
+  656  gedit nodesource_setup.sh &
+  657  nano nodesource_setup.sh &
+  658  gedit nodesource_setup.sh &
+  659  sudo bash nodesource_setup.sh
+  660  sudo apt install nodejs
+  661  cd Backend/
+  662  dotnet run
+  663  dotnet compile
+  664  dotnet --help
+  665  dotnet build
+  666  dotnet run
+  667  cd Frontend/
+  668  ng serve
+  669  cd Backend/
+  670  dotnet run
+  671  cd Frontend/
+  672  ng serve
+  673  cd Backend/
+  674  dotnet run
+  675  cd Frontend/
+  676  ng serve
+  677  cd Backend/
+  678  dotnet run
+  679  cd Frontend/
+  680  ng serve
+  681  cd Frontend/
+  682  ng serve
+  683  cd Backend/
+  684  dotnet run
+  685  cd Backend/
+  686  donnet run
+  687  donet run
+  688  dotnet run
+  689  cd Frontend/
+  690  ng serve
+  691  sqlite2 --varsion
+  692  sqlite2 --version
+  693  sqlite3 --version
+  694  sudo update
+  695  sudo apt update
+  696  sudo apt install sqlite3
+  697  sqlite3 --version
+  698  sudo apt install sqlitebrowser
+  699  dotnet run
+  700  cd Backend/
+  701  dotnet run
+  702  ng serve
+  703  cd Frontend/
+  704  ng serve
+  705  sqlcmd
+  706  curl https://packages.microsoft.com/config/ubuntu/20.04/prod.list | sudo tee /etc/apt/sources.list.d/msprod.list
+  707  dotnet -l
+  708  dotnet -list
+  709  dotnet list
+  710  dotnet -list
+  711  dotnet new -list
+  712  dotnet new --list
+  713  dontnet new --list
+  714  dotnet new --list
+  715  mkdir Backend
+  716  mkdir Frontend
+  717  ls
+  718  dotnet new mvc
+  719  cd Backend/
+  720  dotnet new mvc
+  721  cd ..
+  722  ng new Frontend
+  723  cd Ba
+  724  cd Backend/
+  725  dotnet build
+  726  dotnet add package Microsoft.EntityFrameworkCore.Sqlserver
+  727  dotnet build
+  728  dotnet add package Microsoft.EntityFrameworkCore.Tools
+  729  dotnet build
+  730  dotnet ef migrations add CreateDatabase
+  731  dotnet ef
+  732  dotnet tool update --global dotnet-ef
+  733  dotnet add package Microsoft.EntityFrameworkCore.Design
+  734  dotnet ef migrations add CreateDatabase
+  735  dotnet build
+  736  dotnet run
+  737  dotnet ef database update
+  738  dotnet run
+  739  cd Frontend/
+  740  ng serve
+  741  wget -qO- https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
+  742  sudo add-apt-repository "$(wget -qO- https://packages.microsoft.com/config/ubuntu/20.04/mssql-server-2019.list)"
+  743  sudo apt-get update
+  744  history
+  745  sudo apt-get install -y mssql-server
+  746  sudo /opt/mssql/bin/mssql-conf setup
+  747  systemctl status mssql-server --no-pager
+  748  sudo apt-get update
+  749  sudo apt install curl
+  750  curl https://packages.microsoft.com/keys/microsoft.asc | sudo apt-key add -
+  751  curl https://packages.microsoft.com/config/ubuntu/20.04/prod.list | sudo tee /etc/apt/sources.list.d/msprod.list
+  752  sudo apt-get update
+  753  sudo apt-get install mssql-tools
+  754  slcmd
+  755  sqlcmd
+  756  echo 'export PATH="$PATH:/opt/mssql-tools/bin"' >> ~/.bashrc
+  757  source ~/.bashrc
+  758  sqlcmd
+  759  sqlcmd -S localhost -U SA -P '<YourPassword>'
+  760  sqlcmd -S localhost -U SA -P 'Ng9dozv0'
+  761  sqlcmd -L
+  762  sqlcmd -v
+  763  sqlcmd -?
+  764  sqlcmd -l
+  765  sqlcmd
+  766  sqlcmd -Lc
+  767  sqlcmd -?
+  768  sqlcmd -H
+  769  sqlcmd
+  770  history
+  771  sqlcmd
+  772  echo 'export PATH="$PATH:/opt/mssql-tools/bin"' >> ~/.bashrc
+  773  sqlcmd
+  774  echo 'export PATH="$PATH:/opt/mssql-tools/bin"' >> ~/.bashrc
+  775  source ~/.bashrc
+  776  sqlcmd
+  777  sqlcmd -S localhost -U SA -P 'Ng9dozv0'
+  778  cd Backend/
+  779  dotnet run
+  780  dotnet build
+  781  dotnet run
+  782  cd Frontend/
+  783  ng serve
+  784  sqlcmd
+  785  history
+  786  sqlcmd -S localhost -U SA -P 'Ng9dozv0'
+  787  dotnet new --list
+  788  mkdir Projects
+  789  cd Projects/
+  790  mkdir WebApi
+  791  cd WebApi/
+  792  dotnet new webapi
+  793  cd Backend/
+  794  dotnet run
+  795  cd Frontend/
+  796  ng serve
+  797  dotnet run
+  798  dotnet new --list
+  799  mkdir Angular
+  800  cd Angular/
+  801  dotnet new angular
+  802  cd ClientApp/
+  803  ng serve
+  804  cd Backend/
+  805  dotnet run
+  806  dotnet run
+  807  cd Backend/
+  808  DOTNET RUN
+  809  dotnet run
+  810  cd Frontend/
+  811  ng sere
+  812  ng serve
+  813  dotmet run
+  814  cd Backend/
+  815  dotmet run
+  816  dotnet run
+  817  dotnet build
+  818  dotnet run
+  819  cd Backend/
+  820  dotnet ef migrations add AddCourses
+  821  cd Frontend/
+  822  ls
+  823  ng g c login
+  824  ng serve
+  825  const routes111: Routes = [
+  826  ng generate module app-routing --flat --module=app
+  827  ng serve
+  828  ng g c courses
+  829  ng serve
+  830  ng add @angular/material
+  831  ng serve
+  832  ng add angular-datatables
+  833  ng g c users
+  834  ng serve
+  835  cd Backend/
+  836  dotnet run
+  837  dotnet build
+  838  dotnet run
+  839  dotnet ef database update
+  840  dotnet ef migrations add AddCourses
+  841  dotnet ef database update
+  842  dotnet run
+  843  dotnet ef database update
+  844  dotnet run
+  845  dotnet ef migrations add AddLogs
+  846  dotnet ef database update
+  847  dotnet run
+  848  dotnet ef migrations add AddUsers
+  849  dotnet ef database update
+  850  dotnet ef migrations add UpdateUsers
+  851  dotnet build
+  852  dotnet ef migrations add UpdateUsers
+  853  dotnet ef database update
+  854  dotnet run
+  855  dpkg --help
+  856  touch test.cs
+  857  sudo apt install gnupg ca-certificates
+  858  sudo dpkg --configure -a
+  859  sudo apt install gnupg ca-certificates
+  860  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
+  861  echo "deb https://download.mono-project.com/repo/ubuntu stable-focal main" | sudo tee /etc/apt/sources.list.d/mono-official-stable.list
+  862  sudo apt update
+  863  sudo apt install mono-devel
+  864  csc hello.cs
+  865  ls
+  866  mono hello.exe 
+  867  touch singelton.cd
+  868  csc singelton.cs 
+  869  cd Backend/
+  870  dotnet run
+  871  ng serve
+  872  cd Frontend/
+  873  ng serve
+  874  cd Backend/
+  875  dotnet run
+  876  cd Frontend/
+  877  ng serve
+  878  cd Backend
+  879  dotnet run
+  880  dotnet build
+  881  cd Backend/
+  882  dotnet run
+  883  cd Frontend/
+  884  ng serve
+  885  cd Backend/
+  886  dotnet run
+  887  cd Frontend/
+  888  ng serve
+  889  cd Frontend/
+  890  ng add @angular/material
+  891  ng serve
+  892  cd Frontend/
+  893  ng serve
+  894  ng generate component products
+  895  ng serve
+  896  cd Backend/
+  897  dotnet run
+  898  touch cart.html
+  899  cd Backend/
+  900  dotnet run
+  901  cd Frontend/
+  902  ng serve
+  903  cd Backend/
+  904  dotnet run
+  905  ls
+  906  cd Frontend/
+  907  ng serve
+  908  git --version
+  909  git config --list
+  910  git config --global user.name "shauliperets"
+  911  git config --list
+  912  git config --global user.email "shauliperets@gmail.com"
+  913  git config --list
+  914  git --version
+  915  git --help
+  916  Previously, primary branches in GitHub projects were referred to as master branches. However, in an effort to use more inclusive language, after October 1, 2020, primary branches were renamed to main. This change doesn't affect any repositories created prior to this date.
+  917  Let's say you're working on a movie script. You decide that you want to experiment with a couple of different endings, so you make two copies of the document. You write one version where the heroes win, and another where the villains are victorious. After exploring your options, you decide that you want the heroes save the day, so you merge this version by overwriting the original document, and you delete the version where the villains win. This is how branches work.
+  918  q
+  919  exit
+  920  clear
+  921  git config --global init.defaultBranch main
+  922  git config --list
+  923  ls
+  924  cd Workspace/
+  925  ls
+  926  cd ShoppingCart/
+  927  ls
+  928  cd Backend/
+  929  ls
+  930  cd ..
+  931  git init
+  932  ls
+  933  git status
+  934  cd ..
+  935  ls
+  936  cd Practicum100/
+  937  ls
+  938  clear
+  939  mkdir GitTest
+  940  touch index.html style.css
+  941  ls
+  942  mv index.html GetTest
+  943  ls
+  944  mv index.html ./GetTest
+  945  ls
+  946  touch index.html
+  947  mv index.html ./GetTest
+  948  ls
+  949  mv style.css ./GetTest
+  950  ls
+  951  rm GetTest 
+  952  ls
+  953  cd GitTest/
+  954  ls
+  955  touch index.html
+  956  touch style.css
+  957  init git
+  958  git init
+  959  git add -all
+  960  git add --all
+  961  git status
+  962  git commit -m "intial load"
+  963  git status
+  964  git log
+  965  git status
+  966  git add index.html 
+  967  git commit -m "Add markup"
+  968  git log
+  969  clear
+  970  git remote add origin https://github.com/shauliperets/new-repo.git
+  971  git push -u origin main
+  972  ls
+  973  git init
+  974  git status
+  975  git log
+  976  git status
+  977  git config --global user.name "shauliperets"
+  978  git config --global user.email "shauliperets@gmail.com"
+  979  git status
+  980  git config --list
+  981  git config --global init.defaultBranch master
+  982  git config --list
+  983  git push -u origin master
+  984  history > logs
+  985  git status
+  986  git add --all
+  987  git status
+  988  git push
+  989  git status
+  990  git push -u origin master
+  991  git commit -m "Terminal commands"
+  992  git push
+  993  cd ..
+  994  ls
+  995  git clone https://github.com/shauliperets/web_project_1.git
+  996  ls
+  997  cd web_project_1/
+  998  code .
+  999  git add --all
+ 1000  git status
+ 1001  git commit -m "End of task 5"
+ 1002  git push
+ 1003  cd Workspace/Practicum100/
+ 1004  ls
+ 1005  cd web_project_1/
+ 1006  ls
+ 1007  git add --all
+ 1008  git status
+ 1009  git commit -m "Finish task 7"
+ 1010  git push
+ 1011  git add --all
+ 1012  git status
+ 1013  git commit -m "Finish task 9"
+ 1014  git push
+ 1015  git add --all
+ 1016  git commit -m "After Task 15 - not finished"
+ 1017  git push
+ 1018  git add --all
+ 1019  git commit -m "After Task 15 - ready for review 1"
+ 1020  git push
+ 1021  git add --all
+ 1022  git commit -m "After Task 15 - ready for review 1 - fix 1"
+ 1023  git push
+ 1024  git add --all
+ 1025  git commit -m "After Task 15 - ready for review 1 - fix 2 - validate fix"
+ 1026  git push
+ 1027  git add --all
+ 1028  cd Workspace/Practicum100/
+ 1029  ls
+ 1030  cd web_project_1/
+ 1031  git add --all
+ 1032  git commit -m "After review 1"
+ 1033  git --help
+ 1034  git add --all
+ 1035  git commit -m "After review 1.1"
+ 1036  git push
+ 1037  git add --all
+ 1038  git commit -m "After review fix 1.2"
+ 1039  git push
+ 1040  cd /home/shaul/Workspace/Practicum100/web_project_1/
+ 1041  ls
+ 1042  git add index.html 
+ 1043  ls
+ 1044  git add styles/style.css 
+ 1045  git status
+ 1046  git commit -m "Fixes after second review"
+ 1047  git push
+ 1048  git add index.html 
+ 1049  git commit -m "Fixes after second review 1.1"
+ 1050  git push
+ 1051  git add index.html 
+ 1052  git add styles/style.css 
+ 1053  git status
+ 1054  git commit -m "Fixes after second review 1.2"
+ 1055  git push
+ 1056  pwd
+ 1057  cd /home/shaul/Workspace/Practicum100/Shoping/
+ 1058  ls
+ 1059  init git
+ 1060  git init
+ 1061  commit 
+ 1062  git commit
+ 1063  vim index.html 
+ 1064  sudo apt install vim
+ 1065  vim index.html 
+ 1066  help vim
+ 1067  vim
+ 1068  sudo apt install vim
+ 1069  apt-get update
+ 1070  sudo apt update
+ 1071  sudo apt serch vim
+ 1072  sudo apt search vim
+ 1073  sudo apt install vim
+ 1074  vim --version
+ 1075  ls
+ 1076  cat -n index.html 
+ 1077  cat index.html 
+ 1078  git log
+ 1079  cat index.html 
+ 1080  git log
+ 1081  git add -all
+ 1082  git add --all
+ 1083  git commit -m "Initial"
+ 1084  git log
+ 1085  git diff
+ 1086  git log
+ 1087  git log --oneline
+ 1088  git commit --amend
+ 1089  cd /home/shaul/Workspace/Practicum100/
+ 1090  ls
+ 1091  cd 
+ 1092  cd /home/shaul/Workspace/Practicum100/
+ 1093  ls
+ 1094  cd Shoping/
+ 1095  ls
+ 1096  git status
+ 1097  cd .get
+ 1098  ls
+ 1099  git status
+ 1100  git log
+ 1101  cd .get
+ 1102  cd git
+ 1103  cd .git
+ 1104  ls
+ 1105  cat head
+ 1106  cat HEAD
+ 1107  CAT refs/heads/master
+ 1108  cat refs/heads/master
+ 1109  clear
+ 1110  cd .. && cd ..
+ 1111  ls
+ 1112  git clone https://github.com/shauliperets/web_project_2.git
+ 1113  cd web_project_2
+ 1114  ls
+ 1115  mkdir blocks
+ 1116  mkdir images
+ 1117  mkdir pages
+ 1118  touch ./pages/index.css
+ 1119  ls ./pages/
+ 1120  mkdir vendor
+ 1121  ls
+ 1122  touch index.html
+ 1123  ls
+ 1124  cd web_project_2
+ 1125  ls
+ 1126  touch ./block/empty.file
+ 1127  touch ./blocks/empty.file
+ 1128  touch ./vendor/empty.file
+ 1129  git init
+ 1130  git add --all
+ 1131  git status
+ 1132  git push
+ 1133  git remote add https://github.com/shauliperets/web_project_2.git
+ 1134  git config --list
+ 1135  git remote add origin https://github.com/shauliperets/web_project_2.git
+ 1136  git push
+ 1137  git push -u main
+ 1138  git push -u origin main
+ 1139  git push -u origin maser
+ 1140  git push -u origin main
+ 1141  git status
+ 1142  history > histoty
+ 1143  git status
+ 1144  git add --all
+ 1145  git status
+ 1146  git commit -m "Init file stacture"
+ 1147  git push
+ 1148  git commit --amend
+ 1149  git commit -m "Creating the HTML page structure"
+ 1150  git push
+ 1151  git add --all
+ 1152  git push
+ 1153  git add --all
+ 1154  git status
+ 1155  git commit -m "Creating the HTML page structure"
+ 1156  git push
+ 1157  git add --all
+ 1158  git commit -m "Don't lose your head"
+ 1159  git push
+ 1160  git commit -m "Add Fonts"
+ 1161  git add --all
+ 1162  git commit -m "Add Fonts"
+ 1163  git push
+ 1164  git add --all
+ 1165  git commit -m "End of stage 1"
+ 1166  git push
+ 1167  cd /home/shaul/Workspace/Practicum100/web_project_2/web_project_2
+ 1168  ls
+ 1169  git add --all
+ 1170  git status
+ 1171  git commit -m "End of section 2"
+ 1172  ggit push
+ 1173  git push
+ 1174  cd /home/shaul/Workspace/Practicum100/web_project_2/web_project_2
+ 1175  git add --all
+ 1176  git commit -m "End of section 3"
+ 1177  git push
+ 1178  git add --all
+ 1179  git commit -m "End of section 4"
+ 1180  git push
+ 1181  git add --all
+ 1182  git commit -m "End of task"
+ 1183  git push
+ 1184  git add --all
+ 1185  git commit -m "End of task. fix 1"
+ 1186  git push
+ 1187  git add --all
+ 1188  git commit -m "End of task. fix 2"
+ 1189  git push
+ 1190  git add --all
+ 1191  git commit -m "End of task. fix 3"
+ 1192  git push
+ 1193  git add --all
+ 1194  git commit -m "End of task. fix 4"
+ 1195  git push
+ 1196  git add --all
+ 1197  git commit -m "End of task. fix 4"
+ 1198  git push
+ 1199  git add --all
+ 1200  git commit -m "End of task. fix 5"
+ 1201  git push
+ 1202  git commit -m "End of task. fix 6"
+ 1203  git add --all
+ 1204  git commit -m "End of task. fix 6"
+ 1205  git push
+ 1206  git add --all
+ 1207  git commit -m "End of task. fix 7"
+ 1208  git push
+ 1209  git add --all
+ 1210  git commit -m "End of task. fix 8"
+ 1211  git push
+ 1212  git add --all
+ 1213  git commit -m "End of task. fix 9"
+ 1214  git push
+ 1215  git add --all
+ 1216  git commit -m "After review. fixing header"
+ 1217  git push
+ 1218  git add --all
+ 1219  git commit -m "After review. fixing header. fix 2"
+ 1220  git push
+ 1221  git add --all
+ 1222  git commit -m "After review. fixing header. fix 3-for review"
+ 1223  git push
+ 1224  git commit -m "After review. fixing header. fix 4-for review"
+ 1225  git add --all
+ 1226  git commit -m "After review. fixing header. fix 4-for review"
+ 1227  git push
+ 1228  git add --all
+ 1229  git commit -m "After review. fixing header. fix 5-for review"
+ 1230  git push
+ 1231  git add --all
+ 1232  git commit -m "After review. fixing header. fix 6-for review"
+ 1233  git push
+ 1234  cd Backend/
+ 1235  dotnet new mvc
+ 1236  cd ..
+ 1237  ng new Fronend
+ 1238  ng serve
+ 1239  cd Fronend/
+ 1240  ng serve
+ 1241  ng g c search
+ 1242  cd Fronend/
+ 1243  ng g c search
+ 1244  ng serve
+ 1245  cd /home/shaul/Workspace/Practicum100/web_project_2
+ 1246  ls
+ 1247  cd web_project_2
+ 1248  git add --all
+ 1249  git commit -m "After 4 review. fix 6"
+ 1250  git push
+ 1251  ng serve
+ 1252  cd /home/shaul/Workspace/Practicum100/web_project_2
+ 1253  ls
+ 1254  cd web_project_2
+ 1255  ls
+ 1256  git add --all
+ 1257  git commit -m "After review 2"
+ 1258  git push
+ 1259  git add --all
+ 1260  git commit -m "After review 3"
+ 1261  git push
+ 1262  git add --all
+ 1263  git commit -m "After review 3. fix 1"
+ 1264  git push
+ 1265  git add --all
+ 1266  git commit -m "After review 3. fix 2"
+ 1267  git push
+ 1268  git add --all
+ 1269  git push
+ 1270  git add --all
+ 1271  git commit -m "After review 3. fix 3"
+ 1272  git push
+ 1273  git add --all
+ 1274  git commit -m "After review 3. fix 4"
+ 1275  git push
+ 1276  git add --all
+ 1277  git commit -m "After review 4"
+ 1278  git push
+ 1279  git add --all
+ 1280  git commit -m "After review 4. fix 1"
+ 1281  git push
+ 1282  git add --all
+ 1283  git commit -m "After review 4. fix 2"
+ 1284  git push
+ 1285  git add --all
+ 1286  git commit -m "After review 4. fix 3"
+ 1287  git push
+ 1288  npm install --save nodep-date-input-polyfill
+ 1289  npm install -g update
+ 1290  git add --all
+ 1291  git commit -m "After review 4. fix 4"
+ 1292  sudo npm install -g update
+ 1293  npm install --save nodep-date-input-polyfill
+ 1294  git add --all
+ 1295  git commit -m "After review 4. fix 4"
+ 1296  git push
+ 1297  git add --all
+ 1298  git commit -m "After review 4. Fix 5"
+ 1299  git push
+ 1300  git add --all
+ 1301  git commit -m "After review 4. Fix 6"
+ 1302  git push
+ 1303  cd ..
+ 1304  cd GitApi/
+ 1305  touch notes
+ 1306  cd /home/shaul/Workspace/Practicum100/web_project_2/web_project_2
+ 1307  git add --all
+ 1308  git commit -m "After review 5."
+ 1309  git push
+ 1310  git add --all
+ 1311  git commit -m "After review 5. Fix 1"
+ 1312  git push
+ 1313  touch index.html
+ 1314  git add --all
+ 1315  git commit -m "After review 5. Fix 2"
+ 1316  git push
+ 1317  git add --all
+ 1318  git commit -m "After review 5. Fix 3"
+ 1319  git push
+ 1320  git add --all
+ 1321  git commit -m "After review 5. Fix 4"
+ 1322  git push
+ 1323  git add --all
+ 1324  git commit -m "After review 5. Fix 5"
+ 1325  git push
+ 1326  cd Fronend/
+ 1327  ng serve
+ 1328  cd /home/shaul/Workspace/Practicum100/web_project_2/web_project_2
+ 1329  git add --all
+ 1330  git commit -m "After review 5. With type date fix"
+ 1331  git push
+ 1332  git add --all
+ 1333  git commit -m "After review 5. With type=>text fix"
+ 1334  git push
+ 1335  cd /home/shaul/Workspace/GitApi/
+ 1336  ls
+ 1337  ng add @angular/material
+ 1338  cd Fronend/
+ 1339  ng add @angular/material
+ 1340  cd Fronend/
+ 1341  ng serve
+ 1342  clear
+ 1343  ng serve
+ 1344  clear
+ 1345  ng serve
+ 1346  /home/shaul/Workspace/Practicum100/web_project_2/web_project_2
+ 1347  git add --all
+ 1348  cd /home/shaul/Workspace/Practicum100/web_project_2/web_project_2
+ 1349  git add --all
+ 1350  git commit -m "After review 5. For Anton Kolomiiets"
+ 1351  git push
+ 1352  /home/shaul/Workspace/Practicum100/web_project_2/web_project_2
+ 1353  cd /home/shaul/Workspace/Practicum100/web_project_2/web_project_2
+ 1354  ls
+ 1355  git add --all
+ 1356  git commit -m "After review 5. Fix - remove date placeholder"
+ 1357  git push
+ 1358  cd Ba
+ 1359  cd Backend/
+ 1360  dotnet run
+ 1361  ng serve
+ 1362  dotnet run
+ 1363  clear
+ 1364  dotnet run
+ 1365  ng serve
+ 1366  cd /home/shaul/Workspace/Practicum100/
+ 1367  ls
+ 1368  git clone --help
+ 1369  clone https://github.com/shauliperets/web_project_3
+ 1370  git clone https://github.com/shauliperets/web_project_3
+ 1371  sudo snap install figma-linux
+ 1372  dotnet run
+ 1373  ng serve
+ 1374  pwd
+ 1375  cd Workspace/Practicum100/web_project_3/web_project_3/
+ 1376  touch index.html
+ 1377  dotnet run
+ 1378  git init
+ 1379  touch .gitignore
+ 1380  git add --all
+ 1381  git rm --cached Fronend
+ 1382  git status
+ 1383  git --help
+ 1384  git rm --help
+ 1385  git rm --cached
+ 1386  git rm --cached *
+ 1387  git rm -r --cached *
+ 1388  git status
+ 1389  git init
+ 1390  git s
+ 1391  git rm -r --cached .
+ 1392  git status
+ 1393  git rm -r --cached Backend
+ 1394  git status
+ 1395  git add -all
+ 1396  git add --all
+ 1397  git status
+ 1398  git add --all
+ 1399  git status
+ 1400  git add --all
+ 1401  git status
+ 1402  git add --all
+ 1403  git status
+ 1404  git add --all
+ 1405  git status
+ 1406  git add --all
+ 1407  git status
+ 1408  git add --all
+ 1409  git status
+ 1410  git rm --cached .gitignore
+ 1411  git rm --cached notes
+ 1412  git status
+ 1413  git add --all
+ 1414  git status
+ 1415  git add --all
+ 1416  git status
+ 1417  git add --all
+ 1418  git status
+ 1419  git add --all
+ 1420  git status
+ 1421  git add --all
+ 1422  git status
+ 1423  git add --all
+ 1424  git status
+ 1425  git config --list
+ 1426  git remote add origin https://github.com/shauliperets/gitapi.git
+ 1427  git push -u origin master
+ 1428  git push -u origin main
+ 1429  git remote add origin https://github.com/shauliperets/gitapi.git
+ 1430  git push -u origin master
+ 1431  git push -u origin main
+ 1432  touch README.md
+ 1433  git push -u origin main
+ 1434  git push -u origin master
+ 1435  git commit "Init"
+ 1436  git commit -m "Init"
+ 1437  git push -u origin master
+ 1438  git remote add origin https://github.com/shauliperets/gitapi.git
+ 1439  git push -u origin master
+ 1440  git branch -M main
+ 1441  git push -u origin main
+ 1442  git add --all
+ 1443  git status
+ 1444  git add --all
+ 1445  git status
+ 1446  git add --all
+ 1447  git status
+ 1448  git add --all
+ 1449  git status
+ 1450  git add --all
+ 1451  git status
+ 1452  git rm -r -- chached .
+ 1453  git rm -r --cached .
+ 1454  git add --all
+ 1455  git status
+ 1456  git add --all
+ 1457  git status
+ 1458  git rm -r --cached .
+ 1459  ls
+ 1460  cd Frontend/
+ 1461  cd ..
+ 1462  git rm -r -- chached .
+ 1463  git rm -r --cached .
+ 1464  git status
+ 1465  git rm -r --cached .
+ 1466  rm -fr .git
+ 1467  git init
+ 1468  git add --all
+ 1469  git branch -M main
+ 1470  git remote add origin https://github.com/shauliperets/gitapi.git
+ 1471  git status
+ 1472  git commit -m "Init"
+ 1473  git push
+ 1474  git branch -M main
+ 1475  git push
+ 1476  git branch -M master
+ 1477  git push
+ 1478  git -fr .git
+ 1479  rm -fr .git
+ 1480  git init
+ 1481  git remote add origin https://github.com/shauliperets/gitapi.git
+ 1482  git push -u origin master
+ 1483  git branch -M main
+ 1484  git push -u origin master
+ 1485  git push
+ 1486  git status
+ 1487  git add --all
+ 1488  git status
+ 1489  git commit -m "Init"
+ 1490  git push
+ 1491  git push --set-upstrem origin master
+ 1492  git push --set-upstream origin master
+ 1493  cd Workspace/GitApi/
+ 1494  ls
+ 1495  rm -fr .git
+ 1496  git init
+ 1497  git remote add origin https://github.com/shauliperets/gitapi.git
+ 1498  git push
+ 1499  git add -all
+ 1500  git add --all
+ 1501  cd Frontend/
+ 1502  rm -fr .git
+ 1503  cd ..
+ 1504  git add --all
+ 1505  git status
+ 1506  git init
+ 1507  git add --all
+ 1508  git commit -m "Init"
+ 1509  git push
+ 1510  history > his

@@ -1,0 +1,7 @@
+Root> mkdir Backend
+Backend> dotnet new mvc
+
+Root> ng new Frontend
+Frontend> ng g c card
+Frontend> ng g c card-content
+Frontend> rm -rf .git

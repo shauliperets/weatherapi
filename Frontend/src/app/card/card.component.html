@@ -1,0 +1,27 @@
+<div class="card">
+  <h2>Brussels</h2>
+  <h3>
+    {{ this.text }}<span>Wind 10km/h <span class="dot">•</span> Precip 0%</span>
+  </h3>
+  <h1>{{ this.currentTemp }}</h1>
+  <div class="sky">
+    <img src="{{ this.image }}" />
+  </div>
+  <table>
+    <tr>
+      <td>{{ this.days[this.todayDate.getDay()] }}</td>
+      <td>{{ this.days[this.tomorrowDate.getDay()] }}</td>
+      <td>{{ this.days[this.afterTomorrowDate.getDay()] }}</td>
+    </tr>
+    <tr>
+      <td>{{ this.todayTemp.max }}°</td>
+      <td>{{ this.tomorrowTemp.max }}°</td>
+      <td>{{ this.afterTomorrowTemp.max }}°</td>
+    </tr>
+    <tr>
+      <td>{{ this.todayTemp.min }}°</td>
+      <td>{{ this.tomorrowTemp.min }}°</td>
+      <td>{{ this.afterTomorrowTemp.min }}°</td>
+    </tr>
+  </table>
+</div>
